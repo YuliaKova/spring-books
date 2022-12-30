@@ -1,0 +1,17 @@
+spring:
+  data:
+    mongodb:
+      port: 27017
+      database: tacocloud
+#    cassandra:
+#      keyspace-name: tacocloud
+#      schema-action: recreate
+#      local-datacenter: datacenter1
+#  datasource:
+#    url: jdbc:h2:mem:tacocloud
+#    username: sa
+#    password:
+#    driverClassName: org.h2.Driver
+#  jpa:
+#    database-platform: org.hibernate.dialect.H2Dialect
+#    defer-datasource-initialization: true
